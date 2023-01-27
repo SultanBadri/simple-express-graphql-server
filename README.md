@@ -3,7 +3,7 @@ A simple Express.js and GraphQL server with recipes.
 
 ## How to run
 
-First, the repository.
+First, clone the repository.
 
 ```env
 git clone https://github.com/SultanBadri/simple-express-graphql-server.git
